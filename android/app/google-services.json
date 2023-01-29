@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501397997588",
+    "project_id": "autoservicingnepal",
+    "storage_bucket": "autoservicingnepal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501397997588:android:c432a33ede235ddae1ff01",
+        "android_client_info": {
+          "package_name": "com.example.autoservicingnepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501397997588-8j0011v4hmpvna4jtvc92lh84lkgtabl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMTJMeZEPoXdysyRulBFa6tarihJlXoBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501397997588-8j0011v4hmpvna4jtvc92lh84lkgtabl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
